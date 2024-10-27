@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WavReplace", "WavReplace\WavReplace.csproj", "{4470B18B-B9B2-406B-8AB7-BB19F009E056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4470B18B-B9B2-406B-8AB7-BB19F009E056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4470B18B-B9B2-406B-8AB7-BB19F009E056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4470B18B-B9B2-406B-8AB7-BB19F009E056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4470B18B-B9B2-406B-8AB7-BB19F009E056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8B8902D-2AB9-4F4A-AB9D-4EAEAA20FC7F}
+	EndGlobalSection
+EndGlobal
